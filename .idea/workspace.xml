@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98e7e6af-31cd-46e3-b1c9-3045177f05cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/androidTest/java/io/jkgwak/composestudy/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/io/jkgwak/composestudy/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/io/jkgwak/composestudy/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/io/jkgwak/composestudy/ui/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/io/jkgwak/composestudy/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/java/io/jkgwak/composestudy/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/app/src/test/java/io/jkgwak/composestudy/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="ProjectId" id="21X7oec5sHtsaUxxzBVXaiwax6c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98e7e6af-31cd-46e3-b1c9-3045177f05cd" name="Default Changelist" comment="" />
+      <created>1638075755171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638075755171</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
